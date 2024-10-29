@@ -2,11 +2,8 @@
     height: 500px;
     width: 100%;
 }
-.thumbmail{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100px;
-    width: 100px;
+.thumbnail{
+    height: 250px;
+    width: 300px;
 }
 
